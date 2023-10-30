@@ -7,3 +7,6 @@ elif my_age == 30:
     print(f"i am {my_age}")
 else:
     print("End!")
+
+for years in range(my_age):
+    money_save = float(input())
